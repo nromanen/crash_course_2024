@@ -2,7 +2,7 @@
 name: Test case
 about: Template for detailed test cases
 title: ''
-labels: ''
+labels: test case
 assignees: ''
 
 ---
