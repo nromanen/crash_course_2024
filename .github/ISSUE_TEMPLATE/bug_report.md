@@ -10,14 +10,19 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+**Preconditions**
+Describe the necessary actions or parameters to execute or meet before executing the steps that let you recreate a defect
+
+**Steps to reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
 
-**Expected behavior**
+**Actual result**
+A clear and concise description of what actually happen.
+
+**Expected result**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
