@@ -2,7 +2,7 @@
    !target/*.jar
    *.log
    *.tmp
-   .idea/
+   .vscode/
    *.iml
 
 # Compiled class file
